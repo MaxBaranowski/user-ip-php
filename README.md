@@ -1,6 +1,6 @@
 # user-ip-php
 
-d$_SERVER['REMOTE_ADDR']<br>
+$_SERVER['REMOTE_ADDR']<br>
 $_SERVER['HTTP_USER_AGENT']<br>
 IP и клиент-браузер, соответственно
 
